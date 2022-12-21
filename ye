@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Reconstruction Poems</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <h1 id="rainbow-heading">Reconstruction Poems</h1>
+  <div id="poem-container">
+    <div class="poem">
+      <h2>Poem 1</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet purus at nisi sollicitudin imperdiet. Donec quis nulla sit amet orci pharetra viverra. In hac habitasse platea dictumst. Proin ac massa interdum, auctor lectus id, facilisis purus. Etiam scelerisque justo a mauris suscipit vehicula. Proin dictum orci eget lacus luctus tempus.</p>
+    </div>
+    <div class="poem">
+      <h2>Poem 2</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet purus at nisi sollicitudin imperdiet. Donec quis nulla sit amet orci pharetra viverra. In hac habitasse platea dictumst. Proin ac massa interdum, auctor lectus id, facilisis purus. Etiam scelerisque justo a mauris suscipit vehicula. Proin dictum orci eget lacus luctus tempus.</p>
+    </div>
+    <div class="poem">
+      <h2>Poem 3</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet purus at nisi sollicitudin imperdiet. Donec quis nulla sit amet orci pharetra viverra. In hac habitasse platea dictumst. Proin ac massa interdum, auctor lectus id, facilisis purus. Etiam scelerisque justo a mauris suscipit vehicula. Proin dictum orci eget lacus luctus tempus.</p>
+    </div>
+    <div class="poem">
+      <h2>Poem 4</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet purus at nisi sollicitudin imperdiet. Donec quis nulla sit amet orci pharetra viverra. In hac habitasse platea dictumst. Proin ac massa interdum, auctor lectus id, facilisis purus. Etiam scelerisque justo a mauris suscipit vehicula. Proin dictum orci eget lacus
